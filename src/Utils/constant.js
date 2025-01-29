@@ -22,4 +22,7 @@ export const SUPPORTED_LANGUAGES = [{identifier: "en", name: "English"},
     {identifier: "spanish", name: "Spanish"},
  ];
 
-export const GEMINI_KEY = "AIzaSyBf8PeuaAEVbpRLa-ZCm1kJE6VwoNpq22Q"
+export const OPENAI_KEY = "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"
+
+
+export const GEMINI_KEY = "AIzaSyDWxtp3yN8tCX5eG95RzjAcT3gPw-e55G0";
